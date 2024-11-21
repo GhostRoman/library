@@ -1,0 +1,36 @@
+.container {
+    text-align: center;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.title {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+.description {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.home-image {
+    width: 100%;
+    height: auto;
+    max-width: 600px;
+    margin: 20px 0;
+}
+
+.explore-button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+.explore-button:hover {
+    background-color: #0056b3;
+}

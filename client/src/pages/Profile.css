@@ -1,0 +1,38 @@
+.profile {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.profile h1 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+.profile h2 {
+  font-size: 1.5em;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+.user-info p {
+  margin-bottom: 10px;
+}
+
+.favorite-books {
+  list-style-type: none;
+  padding: 0;
+}
+
+.favorite-books li {
+  margin-bottom: 10px;
+}
+
+.favorite-books a {
+  color: #1a0dab;
+  text-decoration: none;
+}
+
+.favorite-books a:hover {
+  text-decoration: underline;
+}
